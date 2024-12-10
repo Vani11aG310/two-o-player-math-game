@@ -9,7 +9,7 @@
   - This class will be responsible for tracking the main game loop.
   - This will be initialized with instances of the player class to manage states of the game such as current losing player.
   - Will be used to display messages relevant to the game state, like Player x wins!
-  - public methods here would be to console log the message of the winner
+  - public methods here would be to console log the message of the winner and retrieve the next player to p
 
 - Turn
   - Will be used to track which player's turn it is.
